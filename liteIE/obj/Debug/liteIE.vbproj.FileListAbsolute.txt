@@ -1,0 +1,16 @@
+C:\Users\dahcr\source\repos\liteIE\liteIE\bin\Debug\liteIE.exe.config
+C:\Users\dahcr\source\repos\liteIE\liteIE\bin\Debug\liteIE.exe
+C:\Users\dahcr\source\repos\liteIE\liteIE\bin\Debug\liteIE.pdb
+C:\Users\dahcr\source\repos\liteIE\liteIE\bin\Debug\liteIE.xml
+C:\Users\dahcr\source\repos\liteIE\liteIE\obj\Debug\liteIE.vbproj.AssemblyReference.cache
+C:\Users\dahcr\source\repos\liteIE\liteIE\obj\Debug\liteIE.Form1.resources
+C:\Users\dahcr\source\repos\liteIE\liteIE\obj\Debug\liteIE.Resources.resources
+C:\Users\dahcr\source\repos\liteIE\liteIE\obj\Debug\liteIE.vbproj.GenerateResource.cache
+C:\Users\dahcr\source\repos\liteIE\liteIE\obj\Debug\liteIE.vbproj.CoreCompileInputs.cache
+C:\Users\dahcr\source\repos\liteIE\liteIE\obj\Debug\liteIE.exe
+C:\Users\dahcr\source\repos\liteIE\liteIE\obj\Debug\liteIE.xml
+C:\Users\dahcr\source\repos\liteIE\liteIE\obj\Debug\liteIE.pdb
+C:\Users\dahcr\source\repos\liteIE\liteIE\bin\Debug\liteIE.exe.manifest
+C:\Users\dahcr\source\repos\liteIE\liteIE\bin\Debug\liteIE.application
+C:\Users\dahcr\source\repos\liteIE\liteIE\obj\Debug\liteIE.exe.manifest
+C:\Users\dahcr\source\repos\liteIE\liteIE\obj\Debug\liteIE.application
