@@ -1,4 +1,4 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
 Partial Class Form2
     Inherits System.Windows.Forms.Form
 
@@ -42,17 +42,17 @@ Partial Class Form2
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Microsoft JhengHei", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(34, 61)
+        Me.Label2.Location = New System.Drawing.Point(24, 71)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(121, 27)
+        Me.Label2.Size = New System.Drawing.Size(146, 27)
         Me.Label2.TabIndex = 1
-        Me.Label2.Text = "Version 1.2"
+        Me.Label2.Text = "Version 1.3d1"
         '
         'LinkLabel1
         '
         Me.LinkLabel1.AutoSize = True
         Me.LinkLabel1.Font = New System.Drawing.Font("Microsoft JhengHei", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LinkLabel1.Location = New System.Drawing.Point(25, 116)
+        Me.LinkLabel1.Location = New System.Drawing.Point(25, 128)
         Me.LinkLabel1.Name = "LinkLabel1"
         Me.LinkLabel1.Size = New System.Drawing.Size(152, 24)
         Me.LinkLabel1.TabIndex = 2
